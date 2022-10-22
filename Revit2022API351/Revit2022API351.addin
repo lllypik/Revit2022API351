@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\PROG\App\DLL\Revit2022API351.dll"</Assembly>
+		<AddInId>610A6ECF-151C-429C-8CCA-5AEFAFE3ED95</AddInId>
+		<FullClassName>Revit2022API351.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Тема 5. Панель с 3 кнопками</Text>
+	</AddIn>
+</RevitAddIns>
+
